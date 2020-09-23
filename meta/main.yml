@@ -1,0 +1,10 @@
+galaxy_info:
+  role_name: Install Nginx
+  author: Alex Shoostr
+  description: Install Nginx
+  company: Sofit
+  license: license (GPLv2, CC-BY, etc)
+
+  min_ansible_version: 2.9
+  galaxy_tags: []
+dependencies: []
